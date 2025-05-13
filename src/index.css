@@ -5,3 +5,6 @@
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+body{
+  background-image: url("/home/tatsuyamiura2667/react-firebase-chat/public/bg.jpg") ;
+}
