@@ -6,5 +6,8 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 body{
-  background-image:"/workspaces/react-firebase-chat/public/bg.jpg";
+  background-image:url("/workspaces/react-firebase-chat/public/bg.jpg");
+  display:flex;
+  justify-self: center;
+  align-items: center;
 }
