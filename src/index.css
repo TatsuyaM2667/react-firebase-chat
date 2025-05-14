@@ -6,7 +6,7 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 body{
-  background-image: url("/home/tatsuyamiura2667/react-firebase-chat/public/bg.jpg");
+  background-image: url("./bg.jpg");
   display: flex;
   justify-self: center;
   align-items: center;
