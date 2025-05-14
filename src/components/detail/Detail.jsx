@@ -6,4 +6,4 @@ const Datail = () => {
   )
 }
 
-export default Datail
+export default Detail
