@@ -1,4 +1,4 @@
-import "/.chatList.css"
+import "./chatList.css"
 const ChatList = () => {
   return (
     <div className='chatList'>ChatList</div>
