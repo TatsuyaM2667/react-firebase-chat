@@ -1,6 +1,6 @@
 import "./detail.css"
 
-const Datail = () => {
+const Detail = () => {
   return (
     <div className='detail'>Detail</div>
   )
